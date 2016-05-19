@@ -1,21 +1,21 @@
 # [London](http://en.wikipedia.org/wiki/London)
 
-## Transport
+##Transport
 
-## Accommodation
+##Accommodation
 
-## Dining
+##Dining
 
-### Budget
+###Budget
 
-### Good
+###Good
 
-### Fine
+###Fine
 
-## Pubs
+##Pubs
 
 * [HOPS & GLORY](http://www.hopsandglory.co.uk/)
 * [The Calf](http://www.thecalfclapham.co.uk/)
 * [COCK TAVERN](http://www.cocktavern.co.uk/)
 
-## Activities
+##Activities
